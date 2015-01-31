@@ -1,5 +1,5 @@
 [package]
 
-name = "rdkafka-rs"
+name = "librdkafka"
 version = "0.0.1"
 authors = ["Tupshin Harper <tupshin@tupshin.com>"]
